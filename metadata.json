@@ -1,0 +1,6 @@
+{
+  "name": "NewsHub",
+  "description": "CMS moderno e inteligente com editor Markdown, biblioteca de mídias, gerenciador de categorias, simulação de blog ao vivo e assistente de escrita alimentado por IA para SEO, ideias e tons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
